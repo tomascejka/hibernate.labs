@@ -1,0 +1,8 @@
+nedodelane... je nutne implementace
+
+## Sources
++ https://github.com/eugenp/tutorials/blob/master/persistence-modules/hibernate-jpa/src/main/java/com/baeldung/hibernate/jpabootstrap/application/Application.java << kompletni bez persistence.xml
+
++ https://vladmihalcea.com/how-to-bootstrap-jpa-programmatically-without-the-persistence-xml-configuration-file/ << dalsi kompletni bez persistence.xml
+
++ https://github.com/thjanssen/HibernateTips/blob/master/JPABootstrapping/src/test/java/org/thoughts/on/java/model/TestJPABootstrapping.java << castecny boostrap s persistence.xml
